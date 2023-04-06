@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "View_Library/1.0.0": {
+        "dependencies": {
+          "Presenter_Library": "1.0.0"
+        },
+        "runtime": {
+          "View_Library.dll": {}
+        }
+      },
+      "Domain_Library/1.0.0": {
+        "runtime": {
+          "Domain_Library.dll": {}
+        }
+      },
+      "Presenter_Library/1.0.0": {
+        "dependencies": {
+          "Domain_Library": "1.0.0"
+        },
+        "runtime": {
+          "Presenter_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "View_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Presenter_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

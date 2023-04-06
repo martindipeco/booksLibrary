@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Presenter_ElSoldado/1.0.0": {
+        "dependencies": {
+          "Domain_ElSoldado": "1.0.0"
+        },
+        "runtime": {
+          "Presenter_ElSoldado.dll": {}
+        }
+      },
+      "Domain_ElSoldado/1.0.0": {
+        "runtime": {
+          "Domain_ElSoldado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presenter_ElSoldado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain_ElSoldado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

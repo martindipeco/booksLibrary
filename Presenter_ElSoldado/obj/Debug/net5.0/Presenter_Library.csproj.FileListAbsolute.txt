@@ -1,0 +1,15 @@
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\bin\Debug\net5.0\Presenter_Library.deps.json
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\bin\Debug\net5.0\Presenter_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\bin\Debug\net5.0\Presenter_Library.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\bin\Debug\net5.0\Domain_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\bin\Debug\net5.0\Domain_Library.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.csproj.AssemblyReference.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.AssemblyInfoInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.AssemblyInfo.cs
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.csproj.CoreCompileInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.csproj.CopyComplete
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\refint\Presenter_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\Presenter_Library.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Presenter_ElSoldado\obj\Debug\net5.0\ref\Presenter_Library.dll

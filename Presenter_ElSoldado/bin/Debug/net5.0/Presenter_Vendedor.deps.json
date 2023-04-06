@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Presenter_Vendedor/1.0.0": {
+        "dependencies": {
+          "Domain_Vendedor": "1.0.0"
+        },
+        "runtime": {
+          "Presenter_Vendedor.dll": {}
+        }
+      },
+      "Domain_Vendedor/1.0.0": {
+        "runtime": {
+          "Domain_Vendedor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presenter_Vendedor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain_Vendedor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

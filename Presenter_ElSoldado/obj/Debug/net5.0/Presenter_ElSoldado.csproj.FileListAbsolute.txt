@@ -1,0 +1,15 @@
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\Presenter_ElSoldado.deps.json
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\Presenter_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\ref\Presenter_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\Presenter_ElSoldado.pdb
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\Domain_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\bin\Debug\net5.0\Domain_ElSoldado.pdb
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.csproj.AssemblyReference.cache
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.AssemblyInfoInputs.cache
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.AssemblyInfo.cs
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.csproj.CoreCompileInputs.cache
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.csproj.CopyComplete
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\ref\Presenter_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Presenter\obj\Debug\net5.0\Presenter_ElSoldado.pdb

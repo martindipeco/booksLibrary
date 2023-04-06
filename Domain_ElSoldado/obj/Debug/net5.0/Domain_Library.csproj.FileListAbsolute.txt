@@ -1,0 +1,12 @@
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\bin\Debug\net5.0\Domain_Library.deps.json
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\bin\Debug\net5.0\Domain_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\bin\Debug\net5.0\Domain_Library.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.csproj.AssemblyReference.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.AssemblyInfoInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.AssemblyInfo.cs
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.csproj.CoreCompileInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\refint\Domain_Library.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\Domain_Library.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-Biblioteca\Domain_ElSoldado\obj\Debug\net5.0\ref\Domain_Library.dll

@@ -1,0 +1,12 @@
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_Vendedor.deps.json
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_Vendedor.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_Vendedor.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.csproj.AssemblyReference.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.AssemblyInfoInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.AssemblyInfo.cs
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.csproj.CoreCompileInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\refint\Domain_Vendedor.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_Vendedor.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-VendedorSoldado\Domain_ElSoldado\obj\Debug\net5.0\ref\Domain_Vendedor.dll

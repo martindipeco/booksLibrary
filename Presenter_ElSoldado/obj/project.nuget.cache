@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IU11TcCL19vy+hOa2AWTXvYzbEJqXwxQlJCbXeyKrRxpmPNkf8kwqxWuqxu0DDrXMhxi13h9DmlmJQ/OSUGetQ==",
+  "success": true,
+  "projectFilePath": "D:\\Martin\\CS\\C#_QuarkAcademy\\C#\\00-Biblioteca\\Presenter_ElSoldado\\Presenter_Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

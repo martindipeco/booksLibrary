@@ -1,0 +1,11 @@
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_ElSoldado.deps.json
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\bin\Debug\net5.0\ref\Domain_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\bin\Debug\net5.0\Domain_ElSoldado.pdb
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.AssemblyInfoInputs.cache
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.AssemblyInfo.cs
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.csproj.CoreCompileInputs.cache
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\ref\Domain_ElSoldado.dll
+D:\Sitios Web y Proyectos\2021\Quark Academy\Modulos\C#\El Soldado\ElSoldado\ElSoldado\Domain_ElSoldado\obj\Debug\net5.0\Domain_ElSoldado.pdb
